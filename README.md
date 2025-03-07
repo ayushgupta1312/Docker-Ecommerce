@@ -1,0 +1,1 @@
+Docker-Ecommerce is a fully containerized e-commerce application that leverages Docker to streamline deployment and scalability. This project provides a modern, microservices-based architecture for an online store, making it easy to set up, manage, and scale across different environments.
