@@ -30,7 +30,7 @@ Docker-Ecommerce is a fully containerized e-commerce application that leverages 
 
   1. Clone the repository:
      
-     git clone https://github.com/your-username/Docker-Ecommerce.git
+     git clone https://github.com/ayushgupta1312/Docker-Ecommerce.git
      
      cd Docker-Ecommerce
      
